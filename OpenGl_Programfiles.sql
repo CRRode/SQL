@@ -1,3 +1,5 @@
+Create DATABASE ProgramFiles;
+
 use ProgramFiles
 
 CREATE TABLE ProgramFiles (
